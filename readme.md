@@ -1,7 +1,6 @@
-# Creating Envizi PowerBI Report for Social and Governance Metrics
+# Creating Custom Envizi PowerBI Report for Social Metrics
 
-In this article, let us understand about how to capture Social and Governance Metrics in IBM Envizi ESG suite and create the PowerBI Report for the same.
-
+In this article, let us understand about how to capture Social Metrics in IBM Envizi ESG suite and create the PowerBI Report for the same.
 
 ## 1. Enable Social Metrics
 
@@ -91,3 +90,16 @@ The account styles that we have created above would reflect like this in PowerRe
 <img src="images/image43.png">
 
 You can refer this for detailed explanation of how to create Power Report in Envizi. https://github.com/GandhiCloudLab/envizi-create-custom-power-report
+
+
+### Resources
+
+1. PowerBI Training: https://yourlearning.ibm.com/activity/PLAN-8FF21DDE262D
+
+2. Design effective reports in Power BI : https://learn.microsoft.com/en-us/collections/o4dhk4z8xpr8q
+
+3. Monthly Dataset - Glossary - Basic Fields https://knowledgebase.envizi.com/home/monthly-dataset-glossary
+
+4. Monthly Dataset - Glossary - Advanced Fields https://knowledgebase.envizi.com/home/monthly-dataset-glossary-advanced-fields
+
+5. Monthly Dataset - Tutorials https://knowledgebase.envizi.com/home/monthly-dataset-tutorials
