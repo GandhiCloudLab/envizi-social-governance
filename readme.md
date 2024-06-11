@@ -1,6 +1,10 @@
 # Creating Custom Envizi PowerBI Report for Social Metrics
 
-In this article, let us understand about how to capture Social Metrics in IBM Envizi ESG suite and create the PowerBI Report for the same.
+In today's business world, Environmental, Social, and Governance (ESG) factors are more important than ever. While environmental and governance issues often get the most attention, the social aspect—which includes the human elements related to society, communities, and individuals—is just as important. Tracking and analyzing social metrics can give valuable insights into areas like employee engagement, human rights, health and safety, training programs, gender pay gaps, and diversity, equity, and inclusion.
+
+IBM Envizi helps organizations capture these social metrics. With Envizi, companies can collect data on important social aspects, such as employee onboarding and offboarding, and issues related to modern slavery. This data can be turned into detailed and useful Power BI reports, allowing organizations to make better decisions and create a more socially responsible and inclusive workplace.
+
+In this article, let's look at how organizations can capture social metrics around employee onboarding and offboarding, as well as modern slavery-related aspects, and create Power BI reports from this data.
 
 ## Prerequisite
 
@@ -9,7 +13,7 @@ In this article, let us understand about how to capture Social Metrics in IBM En
 
 ## 1. Enable Social Metrics
 
-To show the Social and Governance Metrics related data in the monthly data set of the Power BI report, you need to enable Social metrics in Organization Settings.
+To show the Social Metrics related data in the monthly data set of the Power BI report, you need to enable Social metrics in Organization Settings.
 
 1. Enable Social metrics in Power BI Report in Organization Settings. This can be done by requesting the Product team.
 
