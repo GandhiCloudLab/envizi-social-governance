@@ -2,6 +2,11 @@
 
 In this article, let us understand about how to capture Social Metrics in IBM Envizi ESG suite and create the PowerBI Report for the same.
 
+## Prerequisite
+
+1. Envizi Instance access with `Account Style Wizard` Enabled and `PowerReport Edit` work role added.
+
+
 ## 1. Enable Social Metrics
 
 To show the Social and Governance Metrics related data in the monthly data set of the Power BI report, you need to enable Social metrics in Organization Settings.
@@ -20,7 +25,7 @@ Lets create 2 account styles with the below information.
 
 Lets create an account style called `Emp Hires`. 
 
-This account style helps to keep the Employee Hires details of the organziation. It contains information such as Gender, Qty (Total emp count), Agewise count, Joined, relieved and fired employee count datails.
+This account style helps to keep the Employee Hires details of the organization. It contains information such as Gender, Qty (Total emp count), Agewise count, Joined, relieved and fired employee count details.
 
 1. Goto `Admin > Account Style Wizard`
 
@@ -31,7 +36,7 @@ This account style helps to keep the Employee Hires details of the organziation.
 - **Scope :** Social Metrics
 - **Data Type :** People - Headcount [Number]
 - **Primary Column :** Qty
-- **Seconday Columns :** Gender, Age-21-30,	Age-31-40,	Age-41-50,	Joining,	Leaving,	Fired
+- **Secondary Columns :** Gender, Age-21-30,	Age-31-40,	Age-41-50,	Joining,	Leaving,	Fired
 
 <img src="images/image21.png">
 <img src="images/image22.png">
@@ -41,14 +46,14 @@ This account style helps to keep the Employee Hires details of the organziation.
 
 Lets create an account style called `Modern Slavery`. 
 
-This account style helps to keep the Modern Slavery details of the organziation. It contains information such as Forced Labour, Child Labour, Others and Country datails.
+This account style helps to keep the Modern Slavery details of the organization. It contains information such as Forced Labour, Child Labour, Others and Country details.
 
 1. Create an account style with the following.
 
 - **Scope :** Social Metrics
 - **Data Type :** People - Headcount [Number]
 - **Primary Column :** Forced Labour
-- **Seconday Columns :** Forced Labour, Child Labour, Others and Country
+- **Secondary Columns :** Forced Labour, Child Labour, Others and Country
 
 2. You can create the required fields in the account style as like in the below picture.
 
@@ -69,7 +74,7 @@ We need to create accounts with the above created Account Styles as like below.
 
 2. Make the required changes like Organization column and etc.
 
-3. Upload the file by going to  `Manage > Data files > Upload files` screeen.
+3. Upload the file by going to  `Manage > Data files > Upload files` screen.
 
 <img src="images/image32.png">
 
@@ -83,7 +88,7 @@ The account styles that we have created above would reflect like this in PowerRe
 <img src="images/image40.png">
 
 
-1. Create Social and Goverance power report as like below.
+1. Create Social Metrics power report as like below.
 
 <img src="images/image41.png">
 <img src="images/image42.png">
@@ -92,7 +97,7 @@ The account styles that we have created above would reflect like this in PowerRe
 You can refer this for detailed explanation of how to create Power Report in Envizi. https://github.com/GandhiCloudLab/envizi-create-custom-power-report
 
 
-### Resources
+## Resources
 
 1. PowerBI Training: https://yourlearning.ibm.com/activity/PLAN-8FF21DDE262D
 
@@ -103,3 +108,10 @@ You can refer this for detailed explanation of how to create Power Report in Env
 4. Monthly Dataset - Glossary - Advanced Fields https://knowledgebase.envizi.com/home/monthly-dataset-glossary-advanced-fields
 
 5. Monthly Dataset - Tutorials https://knowledgebase.envizi.com/home/monthly-dataset-tutorials
+
+
+## Summary and next steps
+
+In conclusion, IBM Envizi ESG Suite provides a comprehensive solution for creating custom power reports with the Social Metrics data of your organization.
+
+For more information about IBM Envizi or to try it out yourself, start your 14-day IBM Envizi ESG Suite trial. You can also request a personalized IBM Envizi demo.
