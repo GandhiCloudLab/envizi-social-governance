@@ -93,7 +93,7 @@ Follow these steps:
 	- [Account_Setup_and_Data_Load_G5-Slavery.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/BTgSq_Vg5aETQoSOMJxJZQ/Account-Setup-and-Data-Load-G5-Slavery.xlsx "Account_Setup_and_Data_Load_G5-Slavery.xlsx").
 	- [Account_Setup_and_Data_Load-G5-Forest.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/BTgSq_Vg5aETQoSOMJxJZQ/Account_Setup_and_Data_Load-G5-Forest.xlsx "Account_Setup_and_Data_Load-G5-Forest.xlsx").
 
-2. Make the required changes such as updating the Organization column.
+2. Make the required changes such as updating `Organization`, `Organization Link` and `Account Style Link` columns.
 
 3. Upload the files. Go to `Manage` > `Data Files` > `Upload Files screen`.
 
