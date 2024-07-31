@@ -21,7 +21,7 @@ To display social metrics-related data in the monthly dataset of the Power BI re
 
 ### Step 2. Create account styles
 
-Create account styles for the social metrics-related data. Let's create two account styles with the following information.
+Create account styles for the social metrics-related data. Let's create three account styles with the following information.
 
 - **Account Style 1: Emp Hires**
 
@@ -71,8 +71,7 @@ Create account styles for the social metrics-related data. Let's create two acco
 
    2. You can create the required fields in the account style as shown in the following figure.
 
-   	  ![image24.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/caXy0al2aKoLfpDsVMDxAg/image24.png)
-
+![image24.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/XDpt2tlNAZlfx3yblxVB8A/image24.png)
 
 ### Step 3. Create accounts
 
@@ -82,17 +81,19 @@ Create accounts with the account styles created above, as shown in the following
 
 ![image31.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/QLRDaQldwpumOB56j-gPBg/image31.png)
 
-![image32.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/QLRDaQldwpumOB56j-gPBg/image32.png)
+![image32.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/mvKjtq39nkG7bRNQIm5WFQ/image32.png)
+
+
 
 
 Follow these steps:
 
 1. Download the following sample files:
 
-	- [Envizi_SetupConfig_SG_Report.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/nYync-XLp7iSxTORMYctew/Envizi-SetupConfig-SG-Report.xlsx  "Envizi_SetupConfig_SG_Report.xlsx") 
-	- [Account_Setup_and_Data_Load-G5-Hires.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/YwuvwsVjxicrCCt_bBP7Tg/Account-Setup-and-Data-Load-G5-Hires.xlsx "Account_Setup_and_Data_Load-G5-Hires.xlsx").
-	- [Account_Setup_and_Data_Load_G5-Slavery.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/BTgSq_Vg5aETQoSOMJxJZQ/Account-Setup-and-Data-Load-G5-Slavery.xlsx "Account_Setup_and_Data_Load_G5-Slavery.xlsx").
-	- [Account_Setup_and_Data_Load-G5-Forest.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/BTgSq_Vg5aETQoSOMJxJZQ/Account_Setup_and_Data_Load-G5-Forest.xlsx "Account_Setup_and_Data_Load-G5-Forest.xlsx").
+	- [Envizi_SetupConfig_SG_Report.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/8KGYi6-Q3ZLtdYfFaLf24Q/Envizi-SetupConfig-SG-Report.xlsx  "Envizi_SetupConfig_SG_Report.xlsx")
+	- [Account_Setup_and_Data_Load-G5-Hires.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/vKaO1b_-FcmfduwmtiQFhA/Account-Setup-and-Data-Load-G5-Hires.xlsx "Account_Setup_and_Data_Load-G5-Hires.xlsx").
+	- [Account_Setup_and_Data_Load_G5-Slavery.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IohLtLhk4zLHOGb691MBfg/Account-Setup-and-Data-Load-G5-Slavery.xlsx "Account_Setup_and_Data_Load_G5-Slavery.xlsx").
+	- [Account_Setup_and_Data_Load-G5-Forest.xlsx](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/5kDmogNIm6fWKHppgQSvhA/Account-Setup-and-Data-Load-G5-Forest.xlsx "Account_Setup_and_Data_Load-G5-Forest.xlsx").
 
 2. Make the required changes such as updating `Organization`, `Organization Link` and `Account Style Link` columns.
 
@@ -106,15 +107,15 @@ After the account styles are created, wait for a day for the daily refresh to oc
 
 The account styles we created will be visible in PowerReport after a day. For more information about creating custom PowerReports in Envizi, see [Creating custom PowerReports in Envizi](https://developer.com/tutorials/awb-create-custom-power-reports-in-envizi/).
 
-![image40.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/C7kNH50tC1pSWOKwE2wLlA/image40.png)
+![image40.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/O_z4cPujY5eFv8FLel9DSg/image40.png)
 
 View the Social Metrics PowerReport as shown below.
 
-![image41.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/wF2AQAl6CDoaOpDhAge2FQ/image41.png)
+![image43.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/NYCOv8oHe5HpxOTquAJe2Q/image43.png)
 
-![image42.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/f6_auoedhNd_Y2AbxGREeA/image42.png)
+![image41.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/BlcdG9mqEJUjiDgg4BXn1w/image41.png)
 
-![image43.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/5-WVyCWBwBhKk3My15zYag/image43.png)
+![image42.png](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/emN_ETNiANawatTYPr-WMQ/image42.png)
 
 ## Useful resources
 
