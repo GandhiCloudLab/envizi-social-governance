@@ -64,7 +64,7 @@ Create account styles for the social metrics-related data. Let's create two acco
    1. Create an account style with the following settings:
 
 		- Scope: Social Metrics
-		- Data Type: People - Headcount [Number]
+		- Data Type: Social Metrics
 		- Primary Column: Area
 		- Secondary Columns: Conservation Type, Area Name, UnitOfMeasure
 
@@ -97,7 +97,7 @@ Follow these steps:
 
 3. Upload the files. Go to `Manage` > `Data Files` > `Upload Files screen`.
 
-	![image32.png](./images/image32.png)
+	![image32.png](./images/image33.png)
 
 ### Step 4. Create Power BI report
 
